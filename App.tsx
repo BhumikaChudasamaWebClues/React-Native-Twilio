@@ -1,7 +1,6 @@
 import React, { FC, useState,useRef } from 'react';
 import { StyleSheet, Text, View,TouchableWithoutFeedback, TouchableOpacity } from 'react-native';
 import Dropdown from './Dropdown';
-import OutsideView from 'react-native-detect-press-outside';
 
 
 

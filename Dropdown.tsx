@@ -8,8 +8,6 @@ import {
   View,
   Image
 } from 'react-native';
-import { Icon } from 'react-native-elements';
-import onClickOutside from "react-onclickoutside";
 
 
 interface Props {
